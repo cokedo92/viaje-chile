@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', sans-serif;
+    font-family: 'Cabin', sans-serif;
+    color: #ffffff;
+    background-color: #161515;
+}
+
+
+/* barra navegacion */
+
+.navbar {
+    position:fixed;
+    width: 100%;
+    z-index: 1000;
+
+}
+
+a.navbar-brand {
+    
+    font-size:1.2rem ;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.navbar-logo {
+    max-width: 35px; 
+    height: auto;
+    margin-right: 10px; 
+}
+
+
+
+/* carrusel */
+
+
+#carouselExample {
+    max-height: 800px;
+    overflow: hidden;
+}
+
+
+
+/* Quienes somos */
+
+.franja{
+    background-color: #0ec9f1;
+    padding: 2px;
+}
+
+
+
+
+/* destacados */
+
+.card-body{
+    background-color: #0ec9f1;
+    color: #FFFFFF;
+}
+
+
+.text-left{
+    text-align: left;
+    padding-top: 10px;
+    font-weight: 300;
+}
+
+
+
+
+/* formulario */
+
+.color-boton{
+    background-color: #0ec9f1;
+    color: #FFFFFF;
+}
+
+.tooltip {
+    background-color: #0ec9
+}
+
+
+
+/* footer */
+
+.font-footer {
+    font-family: 'Lobster', sans-serif ;
+    font-size: 2.31rem;
+    color: #FFFFFF;
+}
+
+.icono-con-margen {
+    margin-right: 10px; 
+}
+
+
+.text-footer{
+    font-size: 1.2rem;
+}
+
+.bg-color-footer{
+    background-color: #0ec9f1;
+
+}
+
+a{
+    color: #FFFFFF;
+}
+
+
