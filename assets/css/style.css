@@ -102,12 +102,17 @@ a.navbar-brand {
 }
 
 .bg-color-footer{
-    background-color: #0ec9f1;
+    background-color: #b10ef1;
 
 }
 
 a{
     color: #FFFFFF;
 }
+
+.a-github{
+    color: #FFB233;
+}
+
 
 
